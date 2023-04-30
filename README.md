@@ -1,1 +1,3 @@
 # TikTakToe
+
+This is a Python implementation of the classic game of tic-tac-toe. The game can be played by two human players or against an algorithmic opponent. The board is displayed in the console and players take turns to place their marks (X or O) on the board until one of them wins or the board is full. The game includes error handling for invalid inputs and a replay option at the end. The code uses global variables, functions, and modules such as numpy and pandas to manage the game logic and display. Have fun playing!
